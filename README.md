@@ -14,10 +14,31 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 <!-- Title -->
-<h3 align="center">Senior Fullstack Developer</h3>
-<h2 align="center"> <a href="https://linkedin.com/in/aremankim" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://rifcloud.vercel.app/" target="_blank"> <img src="https://img.shields.io/badge/vercel-blue?style=for-the-badge&logo=&logoColor=white" /> </a> </h2>
+<h3 align="center">⚡Fullstack Developer</h3>
+<h2 align="center"> 
+  <a href="https://linkedin.com/in/aremankim" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> 
+  <a href="https://rifcloud.vercel.app/" target="_blank"> <img src="https://img.shields.io/badge/web-vercel-green?style=for-the-badge&logo=&logoColor=white" /> </a> 
+</h2>
+
+<!-- About -->
+<h3 align="left">About Me 🔭</h1>
+<p align="left">Experienced and results-driven Senior Fullstack Developer with a strong passion for software engineering 
+and DevOps, dedicated to solving complex problems across various industries. Adept at working both 
+independently and collaboratively within agile teams, with a proven ability to adapt quickly to 
+new technologies and industry trends. A lifelong learner committed to continuous improvement and 
+innovation in software development.</p>
+
+<p align="left">
+   🌱 <b>Key Strengths:</b>
+  <ul align="center">
+      ✨ Fullstack development with expertise in PHP, Node.js, Typescript and modern JavaScript frameworks <br />
+      ✨ Strong DevOps skills, including containerization, CI/CD, and Kubernetes management <br />
+      ✨ Experience in ntech, healthcare, and e-commerce industries <br />
+      ✨ Proactive problem-solver with a keen eye for optimization and automation <br />
+      ✨ Passionate about knowledge-sharing and mentoring team members <br />
+  </ul>
+</p>
 
 <!-- GitHub Stats -->
 <p align="center">
@@ -32,10 +53,10 @@ Here are some ideas to get you started:
 
 <!-- Languages & Tools -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,bootstrap,react,nextjs,vue,tailwind,materialui,redux,emotion" /><br/>	
-  <img src="https://skillicons.dev/icons?i=php,javascript,typescript,nodejs,express,nestjs,nuxtjs,graphql,vite" /><br/>
-  <img src="https://skillicons.dev/icons?i=prisma,postgresql,mysql,firebase,mongodb,redis,postman,vscode,vercel,terraform,docker,kubernetes" /><br/>
-  <img src="https://skillicons.dev/icons?i=github,gitlab,bitbucket" /><br/>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,nextjs,vue,tailwind,materialui,redux,pinia,emotion" /><br/>	
+  <img src="https://skillicons.dev/icons?i=php,javascript,typescript,nodejs,express,nestjs,nuxtjs,laravel,graphql,vite,webpack" /><br/>
+  <img src="https://skillicons.dev/icons?i=prisma,sequelize,postgresql,mysql,firebase,mongodb,redis,rabbitmq,vercel,terraform,docker,kubernetes" /><br/>
+  <img src="https://skillicons.dev/icons?i=github,gitlab,bitbucket,postman,vscode,prometheus" /><br/>
 </p>
 
 <br/>
