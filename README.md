@@ -34,7 +34,7 @@ innovation in software development.</p>
   <ul align="center">
       ✨ Fullstack development with expertise in PHP, Node.js, Typescript and modern JavaScript frameworks <br />
       ✨ Strong DevOps skills, including containerization, CI/CD, and Kubernetes management <br />
-      ✨ Experience in ntech, healthcare, and e-commerce industries <br />
+      ✨ Experience in fintech, healthcare, and e-commerce industries <br />
       ✨ Proactive problem-solver with a keen eye for optimization and automation <br />
       ✨ Passionate about knowledge-sharing and mentoring team members <br />
   </ul>
